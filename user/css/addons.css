@@ -1,0 +1,30 @@
+/**
+ * ------------------------------------------------------------------------
+ * JA T3v2 System Plugin for J25 & J31
+ * ------------------------------------------------------------------------
+ * Copyright (C) 2004-2011 J.O.O.M Solutions Co., Ltd. All Rights Reserved.
+ * @license - GNU/GPL, http://www.gnu.org/licenses/gpl.html
+ * Author: J.O.O.M Solutions Co., Ltd
+ * Websites: http://www.joomlart.com - http://www.joomlancers.com
+ * ------------------------------------------------------------------------
+ */
+
+/* Eric Meyer's CSS Tools: Reset CSS (Modified by Hieu Nguyen)
+-------------------------------------------------------------*/
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6,
+
+article, aside, canvas, details, embed{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	/*font-size: 100%; -- Keeping the default behavior on font aesthetic*/
+	/*font: inherit; -- Keeping the default behavior on font aesthetic*/
+	/*vertical-align: baseline;*/
+}
+
